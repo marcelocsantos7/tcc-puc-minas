@@ -1,0 +1,5 @@
+logs.log
+/model/.ipynb_checkpoints
+/.ipynb_checkpoints
+/data/.ipynb_checkpoints
+/data/creditcard.csv
